@@ -1,2 +1,2 @@
-# Soduko
-getting the answer of a soduku
+# Sudoku
+getting the answer of a sudoku
